@@ -1,0 +1,7 @@
+{
+	"name": "Adafruit_BMP085",
+	"author": "Krishnaraj Varma",
+	"version": "1.0.0",
+	"license": "BSD",
+	"description": "Spark Core library for the BMP085 sensors"
+} 
