@@ -1,6 +1,6 @@
 This is a library for the Adafruit BMP085/BMP180 Barometric Pressure + Temp sensor
 
-***  Adapted by Krishnaraj Varma for Spark Core  ***
+***  Adafruit BMP085 Library port by Technobly / BDub  ***
 
 Designed specifically to work with the Adafruit BMP085 or BMP180 Breakout 
   ----> http://www.adafruit.com/products/391
